@@ -4,5 +4,7 @@ The Russian future tense is simple to form. For imperfective verbs, one simply t
 
 | | First-Person | Second-Person | Third-Person |
 |- |- |- |- |
-| Singular | | |
-| Plural | | | |
+| Singular | буду | будешь | будет |
+| Plural | будем | будете | будут |
+
+For perfective verbs, one simply conjugated it as if it were present tense.
